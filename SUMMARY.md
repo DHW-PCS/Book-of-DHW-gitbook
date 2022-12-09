@@ -1,6 +1,6 @@
 # Table of contents
 
-* [起始页](README.md)
+* [欢迎](README.md)
 
 ## DHW 规定 <a href="#dhw-regulations" id="dhw-regulations"></a>
 
@@ -25,14 +25,14 @@
 
 ## 关于本站
 
-* [关于本站](guan-yu-ben-zhan/guan-yu-ben-zhan.md)
+* [本站历史](about/evolution.md)
 
 ## ia-setup
 
 * [This is just a joke](ia-setup/this-is-just-a-joke.md)
 
-## DHW 季度服务器 <a href="#pcs" id="pcs"></a>
+<!-- ## DHW 季度服务器 <a href="#pcs" id="pcs"></a>
 
 * [🌏 DHW Anachy PCS 8.1](pcs/8.1/README.md)
   * [🇺🇸 Introduction (English)](pcs/8.1/en-US.md)
-  * [🇨🇳 介绍（简体中文）](pcs/8.1/zh-CN.md)
+  * [🇨🇳 介绍（简体中文）](pcs/8.1/zh-CN.md) -->
