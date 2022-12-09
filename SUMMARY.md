@@ -13,8 +13,6 @@
 
 ## Inf 文档 <a href="#inf-docs" id="inf-docs"></a>
 
-***
-
 * [Inf 常见问题解答](inf-faqs.md)
 * [DHW Passport 使用须知](ai-setup.md)
 * [DHW 明示黑名单](announced-blacklist-of-dhw.md)
@@ -23,16 +21,10 @@
 * [资源下载](downloads.md)
 * [Inf 1.16 快速说明](inf-1.16-quick-state.md)
 
-## 关于本站
+## 关于本站 <a href="#about" id="about"></a>
 
 * [本站历史](about/evolution.md)
 
 ## ia-setup
 
 * [This is just a joke](ia-setup/this-is-just-a-joke.md)
-
-<!-- ## DHW 季度服务器 <a href="#pcs" id="pcs"></a>
-
-* [🌏 DHW Anachy PCS 8.1](pcs/8.1/README.md)
-  * [🇺🇸 Introduction (English)](pcs/8.1/en-US.md)
-  * [🇨🇳 介绍（简体中文）](pcs/8.1/zh-CN.md) -->
