@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎](README.md)
+* [欢迎](welcome.md)
 
 ## DHW 规定 <a href="#dhw-regulations" id="dhw-regulations"></a>
 
@@ -23,6 +23,7 @@
 
 ## 关于本站 <a href="#about" id="about"></a>
 
+* [联系我们](about/contact-us.md)
 * [本站历史](about/evolution.md)
 
 ## ia-setup

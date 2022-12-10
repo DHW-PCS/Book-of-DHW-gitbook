@@ -36,7 +36,7 @@ description: 如果你没有用过第三方登录，请依照本提示设定好�
 5. 使用邮箱和密码登录
 6. **点击“进行验证和返回”**
 
-![](<.gitbook/assets/图片 (5).png>)
+![在 BakaXL 中设置外置登录](<.gitbook/assets/图片 (5).png>)
 
 * **如果你使用 PCL 2：**
 
@@ -47,7 +47,7 @@ description: 如果你没有用过第三方登录，请依照本提示设定好�
 5. **请将“注册链接”一栏地址中的“api/yggdrasil”改为“auth/register”**
 6. 返回到主界面并使用邮箱和密码登录
 
-![PCL 2 的公测版本可以从DHW云端下载站下载（链接见页面底部）](<.gitbook/assets/图片 (7).png>)
+![在 PCL 2 中设置第三方登录](<.gitbook/assets/图片 (7).png>)
 
 ### 3 启动游戏
 
@@ -65,17 +65,18 @@ description: 如果你没有用过第三方登录，请依照本提示设定好�
 
 ### 4 进入服务器
 
-请根据群公告中的服务器IP添加到你的多人游戏中，之后进入服务器。 你现在无需在服务器使用命令登录了！ 皮肤和头像可以在网站中自行上传。 验证服务器使用 Let's Encrypt X3 进行连接加密，请留意启动器有没有在打开时报错，若有则请更新 Java 到更新版本（Java 8 Update 101 以上）再试。
+请根据群公告中的服务器IP添加到你的多人游戏中，之后进入服务器。你现在无需在服务器使用命令登录了！皮肤可以在网站中自行上传。
+
+{% hint style="info" %}
+验证服务器使用 Let's Encrypt X3 进行连接加密，请留意启动器有没有在打开时报错，若有则请更新 Java 到更新版本（Java 8 Update 101 以上）再试。
+{% endhint %}
 
 ### 5 无效的会话
 
-虽然使用通行证不需要你每次输入密码，但如果进入服务器多次看到“无效的会话”警告，在启动器删除帐户再重新添加即可。建议每4-5天重新添加帐户以防止HMCL、BakaXL、Nsiso验证失败。
+虽然使用通行证不需要你每次输入密码，但如果进入服务器多次看到“无效的会话”警告，在启动器删除帐户再重新添加即可。建议在重新添加帐户以防止 PCL 2、HMCL、BakaXL、Nsiso 等启动器验证失败。
 
 ### 建议你在选取地址时从前往后尝试，或是将其中的几个加入到你的服务器列表中。
 
 ### 6 启动器下载
 
-* [HMCL](https://hmcl.huangyuhui.net/download)
-* [BakaXL](https://www.bakaxl.com/)
-* [Nsiso](https://github.com/Nsiso/NsisoLauncher/releases)（从GitHub）
-* [PCL Beta](https://down.dwcdn.tk/PCL2-Beta/)（从DHW的下载站点）
+如需下载上文提到的启动器，请到[资源下载](downloads.md)页面。

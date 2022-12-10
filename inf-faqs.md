@@ -4,7 +4,7 @@ description: 由于内容过多，本文将不再在群公告展示。
 
 # Inf 常见问题解答
 
-首先，请习得[提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions)。如果进不了服务器，先来这里看看，我们说不定有解决方法。 右面的目录可以快速导航到问题。
+如果进不了服务器，先来这里看看，我们说不定有解决方法。右面的目录可以快速导航到问题。如果问题未解决或者遇到未列出的问题，请习得[提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions)，再到群里发问。
 
 ### 1.Unknown Host/无法解析主机名 <a href="#1-unknown-host" id="1-unknown-host"></a>
 
@@ -16,15 +16,15 @@ description: 由于内容过多，本文将不再在群公告展示。
 
 ### 3.无法验证用户名 <a href="#3" id="3"></a>
 
-你应该是**使用了正版帐户**启动游戏，**请使用DHW Passport帐户**。
+你应该是**使用了正版帐户**连接本服的第三方验证登录服。**请使用DHW Passport帐户**，或改用正版验证登录服。**反之亦然**。
 
 ### 4.Connection Throttled!
 
-此问题说明你尝试连接服务器的**频率过高**，一直尝试连进去只会导致你被它缠身！**请冷静并等待1分钟左右**再重连。
+此问题说明你尝试连接服务器的**频率过高**，一直尝试连接只会导致问题持续！**请冷静并等待1分钟左右**再重连。
 
 ### 5.客户端问题 <a href="#5-clients" id="5-clients"></a>
 
-如果你的电脑系统是64位，请[下载64位Java](https://www.java.com/en/download/manual.jsp)以确保正常游戏体验。
+如果你的电脑系统是64位，请[下载64位Java](https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit&package=jre)以确保正常游戏体验。
 
 ### 6.验证服务器正在停机维护 <a href="#6-under-maintainance" id="6-under-maintainance"></a>
 
@@ -36,4 +36,4 @@ description: 由于内容过多，本文将不再在群公告展示。
 
 ### 说在最后 <a href="#to-say-last" id="to-say-last"></a>
 
-虽然我们平时可能会在你问问题的时候要求你先看这篇公告，但这是为了减少我们的工作量，毕竟80%以上你可能会遇到的问题别人也曾遇到过，而我们也没必要为了重复的问题当复读机。如果你看不懂或是不知道问题如何处理，我们还是欢迎你提问。**在提问时，请提供必要的信息，例如报错内容和截图，还有，你的**[**提问的智慧**](https://lug.ustc.edu.cn/wiki/doc/smart-questions)。
+虽然我们平时可能会在你问问题的时候要求你先看这篇公告，但这是为了减少我们的工作量，毕竟80%以上你可能会遇到的问题别人也曾遇到过，而我们也没必要为了重复的问题当复读机。如果你看不懂或是不知道问题如何处理，我们还是欢迎你提问。**在提问时，请提供必要的信息，例如发生的背景、报错内容和截图，还有，带上**[**提问的智慧**](https://lug.ustc.edu.cn/wiki/doc/smart-questions)。
