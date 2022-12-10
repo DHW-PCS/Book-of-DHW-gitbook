@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎](welcome.md)
+* [欢迎](README.md)
 
 ## DHW 规定 <a href="#dhw-regulations" id="dhw-regulations"></a>
 
