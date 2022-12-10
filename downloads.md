@@ -5,7 +5,7 @@
 
 [Zulu OpenJDK Java 17 JRE](https://www.azul.com/downloads/?version=java-17-lts&package=jre)
 
-[PCL 正式版](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
+[PCL 2 正式版](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
 
 [BakaXL 启动器](https://www.bakaxl.com)
 
