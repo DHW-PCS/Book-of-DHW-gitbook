@@ -20,6 +20,7 @@
 * [Inf 配置升级众筹](inf-updating.md)
 * [资源下载](downloads.md)
 * [Inf 1.16 快速说明(已过时)](inf-1.16-quick-state.md)
+* [Inf 1.18 快速说明](inf-1.18-quick-state.md)
 
 ## 关于本站 <a href="#about" id="about"></a>
 
