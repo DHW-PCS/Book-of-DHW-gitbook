@@ -1,8 +1,6 @@
 
 # 欢迎
 
-[[阅读链接]](https://book.dhwpcs.org)
-
 欢迎来到 Book of DHW！本空间主要用于记载DHW的规定。
 
 ## 简介
