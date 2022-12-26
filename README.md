@@ -1,7 +1,7 @@
 
 # 停止维护
 
-为了提升 Book of DHW 的服务质量与开源程度，Book of DHW 自 2022 年 12 月 26 日起[改用 VuePress 2 分发内容](/DHW-PCS/Book-of-DHW/)，所以本项目将停止更新。
+为了提升 Book of DHW 的服务质量与开源程度，Book of DHW 自 2022 年 12 月 26 日起[改用 VuePress 2 分发内容](https://github.com/DHW-PCS/Book-of-DHW/)，所以本项目将停止更新。
 
 # 欢迎
 
